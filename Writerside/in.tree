@@ -8,7 +8,7 @@
     <toc-element toc-title="Writerside">
         <toc-element toc-title="topics">
             <toc-element topic="Default-topic.md"/>
-            <toc-element topic="Empty-MD-Topic.md"/>
+            <toc-element topic="Test-page-with-links.md"/>
             <toc-element topic="snippet-example.md"/>
         </toc-element>
     </toc-element>
