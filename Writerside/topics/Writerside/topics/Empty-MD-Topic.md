@@ -30,9 +30,3 @@
 
 <include from="snippet-example.md" element-id="generic_warning"/>
 
-
-```plantuml
-@startuml
-Bob->Alice : Hello!
-@enduml
-```
