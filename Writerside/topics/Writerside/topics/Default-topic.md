@@ -8,7 +8,6 @@ If you want to re-add it for your experiments, click + to create a new topic, ch
 ## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
-![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}
 
 ## Write content
 %product% supports two types of markup: Markdown and XML.
@@ -21,7 +20,6 @@ For example, this is how you inject a procedure:
 <procedure title="Inject a procedure" id="inject-a-procedure">
     <step>
         <p>Start typing and select a procedure type from the completion suggestions:</p>
-        <img src="completion_procedure.png" alt="completion suggestions for procedure" border-effect="line"/>
     </step>
     <step>
         <p>Press <shortcut>Tab</shortcut> or <shortcut>Enter</shortcut> to insert the markup.</p>
@@ -39,7 +37,7 @@ To add switchable content, you can make use of tabs (inject them by starting to 
     </tab>
     <tab title="Semantic markup">
         <code-block lang="xml">
-            <![CDATA[<img src="new_topic_options.png" alt="Alt text" width="450px"/>]]></code-block>
+        alt="Alt text" width="450px"/>]]></code-block>
     </tab>
 </tabs>
 
@@ -56,7 +54,6 @@ If you need to extend an element with more functions, you can convert selected c
 For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
 Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
 
-<img src="convert_table_to_xml.png" alt="Convert table to XML" width="706" border-effect="line"/>
 
 ## Feedback and support
 Please report any issues, usability improvements, or feature requests to our 
