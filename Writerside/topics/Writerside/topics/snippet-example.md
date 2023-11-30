@@ -10,7 +10,7 @@
 >
 ```plantuml
 @startuml
-Bob->Alice : Hello!
+Bob->Alice : [[https://plantuml.com/{Официальный сайт PlantUML} PlantUML]]!
 @enduml
 ```
 </snippet>
