@@ -32,6 +32,12 @@
 
 ```plantuml
 @startuml
+Bob->Alice : [[../Writerside/topics/Writerside/topics/Default-topic.md Тестовая ссылка внутри проекта]]!
+@enduml
+```
+
+```plantuml
+@startuml
 Bob->Alice : [[/Users/empanados/IdeaProjects/WritersideProject/Writerside/topics/Writerside/topics/Default-topic.md Тестовая ссылка внутри проекта]]!
 @enduml
 ```
