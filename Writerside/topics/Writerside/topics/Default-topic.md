@@ -31,16 +31,6 @@ For example, this is how you inject a procedure:
 ### Tabs
 To add switchable content, you can make use of tabs (inject them by starting to type `tab` on a new line):
 
-<tabs>
-    <tab title="Markdown">
-        <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
-    </tab>
-    <tab title="Semantic markup">
-        <code-block lang="xml">
-        alt="Alt text" width="450px"/>]]></code-block>
-    </tab>
-</tabs>
-
 ### Collapsible blocks
 Apart from injecting entire XML elements, you can use attributes to configure the behavior of certain elements.
 For example, you can collapse a chapter that contains non-essential information:
