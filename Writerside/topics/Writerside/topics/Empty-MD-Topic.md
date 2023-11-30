@@ -30,3 +30,11 @@
 
 <include from="snippet-example.md" element-id="generic_warning"/>
 
+```plantuml
+@startuml
+Bob->Alice : [[/Users/empanados/IdeaProjects/WritersideProject/Writerside/topics/Writerside/topics/Default-topic.md Тестовая ссылка внутри проекта]]!
+@enduml
+```
+
+
+[This is the first topic](Default-topic.md)
