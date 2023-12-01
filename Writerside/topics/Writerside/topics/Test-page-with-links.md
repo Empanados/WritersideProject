@@ -26,7 +26,9 @@
 
 ![Изображение](https://www.example.com/image.jpg)
 
-> Это цитата.
+> Это цитата
+> 
+> <a href="Default-topic.md"/>
 
 <include from="snippet-example.md" element-id="generic_warning"/>
 
